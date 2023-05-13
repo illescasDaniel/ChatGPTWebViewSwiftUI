@@ -8,7 +8,8 @@
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
 
-# PLEASE RENAME this file to "build.xcconfig"
+// PLEASE RENAME this file to "build.xcconfig"
+// then select a valid development team
 
 PRODUCT_BUNDLE_IDENTIFIER=com.something.ChatGPT-WebView
 DEVELOPMENT_TEAM=
