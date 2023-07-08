@@ -11,5 +11,5 @@
 // PLEASE RENAME this file to "build.xcconfig"
 // then select a valid development team
 
-PRODUCT_BUNDLE_IDENTIFIER=com.something.ChatGPT-WebView
+PRODUCT_BUNDLE_IDENTIFIER=com.something.GifMakerObjC
 DEVELOPMENT_TEAM=
